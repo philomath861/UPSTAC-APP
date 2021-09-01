@@ -1,2 +1,2 @@
-# UPSTACK-APP
-This is UPSTACK Application.
+# UPSTAC-APP
+This is UPSTAC Application.
